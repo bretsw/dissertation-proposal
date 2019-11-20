@@ -220,7 +220,7 @@ class: inverse, center, middle
 
 # Purpose
 
-### The purpose of this study is to explore:
+### Again, the purpose of this study is to explore:
 
 --
 
@@ -300,19 +300,19 @@ include_graphics("img/interview.jpg")
 
 --
 
-* Participants: #MAET students, 0-3 years experience, in U.S.
+* *Participants*: #MAET students, 0-3 years experience, in U.S.
 
 --
 
-* Pilot study: publicity email, interview protocol
+* *Pilot study*: publicity email, interview protocol
 
 --
 
-* Data collection: semi-structured interviews to saturation
+* *Data collection*: semi-structured interviews to saturation
 
 --
 
-* Data analysis: transcribe, thematic analysis, eclectic coding, IRR
+* *Data analysis*: transcribe, thematic analysis, eclectic coding, IRR
 
 ---
 
@@ -324,18 +324,18 @@ include_graphics("img/survey.jpg")
 
 --
 
-* Participants: far and wide, 0-3 years experience, in U.S.
+* *Participants*: far and wide, 0-3 years experience, in U.S.
 
 --
 
-* Pilot study: construct survey instrument, test internal reliability
+* *Pilot study*: construct survey instrument, test internal reliability
 --
 
-* Data collection: ask colleagues to spread word, Twitter
+* *Data collection*: ask colleagues to spread word, Twitter
 
 --
 
-* Data analysis: descriptive statistics
+* *Data analysis*: descriptive statistics
 
 ---
 
@@ -365,11 +365,35 @@ class: inverse, center, middle
 
 ### RQ1. Induction Supports for Professional Learning
 
+```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+include_graphics("img/help.jpg")
+```
+
+--
+
+I expect:
+* help with time management
+* help classroom management
+* help relating to students
+* content expertise (subject-matter questions)
+* felt need for emotional encouragement
+
 ---
 
 # Anticipated Findings
 
-### RQ2. Reasons for Seeking Induction Supports and Reasons for Not Seeking Supports
+### RQ2. Reasons for Seeking Induction Supports (or Not)
+
+```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+include_graphics("img/singleton.jpg")
+```
+
+--
+
+I expect:
+* frustration with district-mandated professional development sessions that are too general to be useful
+* seeking induction supports in response to a specific felt need
+* some *not* seeking induction supports
 
 ---
 
@@ -377,11 +401,34 @@ class: inverse, center, middle
 
 ### RQ3. Interpersonal Connections for Induction Supports
 
+```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+include_graphics("img/community.jpg")
+```
+
+--
+
+I expect:
+* connect with a variety of individuals and groups in search of induction supports
+* individuals from preparation programs, school of employment, and social media
+* groups include formal cohorts, online learning communities (e.g., ISTE), informal affinity spaces
+
 ---
 
 # Anticipated Findings
 
-### RQ4. Use of Social Media as a Modality to Access Induction Supports
+### RQ4. Social Media as a Modality to Access Induction Supports
+
+```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+include_graphics("img/social-media-phone.jpg")
+```
+
+--
+
+I expect:
+* both parallels and differences between social-media mediated supports and offline, face-to-face
+* cost-benefit analysis of whether social media are worth the time, distractions, etc.
+* which social media platforms ECEs use
+* participation inequality
 
 ---
 
@@ -393,9 +440,43 @@ class: inverse, center, middle
 
 # Implications for Practice
 
+```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+include_graphics("img/learning.jpg")
+```
+
+--
+
+* *for ECEs*: professional learning that has worked for peers
+
+--
+
+* *for teacher educators*: what to recommend, what to avoid
+
+--
+
+* *for policy*: help with attrition and turnover
+
+--
+
+* ultimately, this is about *sustaining* ECEs rather than just retaining them
+
 ---
 
 # Implications for Research
+
+```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+include_graphics("img/future-research.jpg")
+```
+
+* *teacher induction research* rooted in theory and taking into account who ECEs are already talking to
+
+--
+
+* *social media research* attentive to the specific challenges and needs for ECEs
+
+--
+
+* setting up directions for future research
 
 ---
 
@@ -436,5 +517,5 @@ class: inverse, center, middle
 
 --
 
-* Pitfalls to avoid / best practices for sustaining work in a dissertation?
+* Pitfalls to avoid / best practices for sustaining work in a dissertation across the coming year+?
 
