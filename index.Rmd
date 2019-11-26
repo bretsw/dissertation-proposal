@@ -140,11 +140,11 @@ include_graphics("img/network.jpg")
 
 --
 
-* Local to global
+* Local + global
 
 --
 
-* Formal to informal
+* Formal + informal
 
 ---
 
@@ -507,7 +507,7 @@ class: inverse, center, middle
 
 ---
 
-# My questions
+# My Questions
 
 --
 
@@ -520,4 +520,3 @@ class: inverse, center, middle
 --
 
 * Pitfalls to avoid / best practices for sustaining work in a dissertation across the coming year+?
-
