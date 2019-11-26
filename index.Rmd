@@ -38,9 +38,9 @@ class: inverse, center, middle
 
 ---
 
-# Transition & Induction
+# Induction
 
-### From preparation to practice
+### Transition from preparation to practice
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/teacher.jpg")
@@ -48,9 +48,9 @@ include_graphics("img/teacher.jpg")
 
 ---
 
-# Transition & Induction
+# Induction
 
-### Tension between two worlds
+### Tension between two worlds about what and how to teach
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/two-worlds.jpg")
@@ -66,9 +66,9 @@ include_graphics("img/two-worlds.jpg")
 
 ---
 
-# Transition & Induction
+# Induction
 
-### Social media: From two worlds to many
+### Social media: From two worlds to many worlds
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/many-worlds.jpg")
@@ -76,7 +76,7 @@ include_graphics("img/many-worlds.jpg")
 
 ---
 
-# Transition & Induction
+# Induction
 
 ### A universe
 
@@ -86,11 +86,13 @@ include_graphics("img/universe.jpg")
 
 ---
 
-# Transition & Induction
+# Induction
 
-### An edu-verse
+### An edu-verse: 
 
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+many voices offering ideas about what and how to teach
+
+```{r, out.width = "700px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edu-verse.jpg")
 ```
 
@@ -454,7 +456,7 @@ include_graphics("img/learning.jpg")
 
 --
 
-* *for policy*: help with attrition and turnover
+* *for policy*: help with teacher attrition and turnover, especially among ECEs
 
 --
 
@@ -468,7 +470,7 @@ include_graphics("img/learning.jpg")
 include_graphics("img/future-research.jpg")
 ```
 
-* *teacher induction research* rooted in theory and taking into account who ECEs are already talking to (Ingersoll & Strong, 2011)
+* *teacher induction research* rooted in theory (Ingersoll & Strong, 2011) and taking into account who ECEs are already talking to (e.g., through social media)
 
 --
 
@@ -476,7 +478,7 @@ include_graphics("img/future-research.jpg")
 
 --
 
-* setting up directions for future research (e.g., data mining)
+* setting up directions for future research (e.g., data mining of digital traces)
 
 ---
 
