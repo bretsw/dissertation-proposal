@@ -468,7 +468,7 @@ include_graphics("img/learning.jpg")
 include_graphics("img/future-research.jpg")
 ```
 
-* *teacher induction research* rooted in theory and taking into account who ECEs are already talking to
+* *teacher induction research* rooted in theory and taking into account who ECEs are already talking to (Ingersoll & Strong, 2011)
 
 --
 
@@ -476,7 +476,7 @@ include_graphics("img/future-research.jpg")
 
 --
 
-* setting up directions for future research
+* setting up directions for future research (e.g., data mining)
 
 ---
 
